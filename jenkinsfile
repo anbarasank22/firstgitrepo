@@ -1,7 +1,10 @@
 pipeline {
   agent any {
 	stages {
-		steps 
+	stage("git checkou") {
+		steps {
+} 
+ 
 }
 }
 }
